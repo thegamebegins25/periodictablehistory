@@ -8,11 +8,32 @@ h2 {
 }
 
 header {
-    background: rgb(63, 121, 155);
-    width: 100%;
+    background: rgb(255, 255, 255);
+    margin-right: 30%;
+    margin-left: 30%;
+    
     padding-top: 1%;
     padding-bottom: .5%;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+
+footer {
+    background: rgb(255, 255, 255);
+    margin-right: 30%;
+    margin-left: 30%;
+    
+    padding-top: 1%;
+    padding-bottom: .5%;
+    margin-bottom: 300px;
+}
+
 
 * {
     box-sizing: border-box;
@@ -31,6 +52,7 @@ header {
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
+    padding-bottom: 300px;
   }
   
   /* The actual timeline (the vertical ruler) */
