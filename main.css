@@ -31,14 +31,13 @@ header {
     
     padding-top: 1%;
     padding-bottom: .5%;
-    margin-bottom: 300px;
+    margin-bottom: 350px;
 }
 
 .workscited {
   background: rgb(255, 255, 255);
-  margin-right: 20%;
-  margin-left: 20%;
-  
+  margin-right: 10%;
+  margin-left: 10%;
   padding-top: 1%;
   padding-bottom: .5%;
   margin-bottom: 300px;
@@ -60,6 +59,10 @@ header {
   font-family: TimesNewRoman;
   line-height: 2;
   font-size: 16px;
+}
+
+.ptheader {
+  margin-bottom: 0;
 }
 
 .workscitedheader {
