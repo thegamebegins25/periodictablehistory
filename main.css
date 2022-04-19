@@ -64,8 +64,6 @@ header {
 
 .docsbutton:hover {
   background-color: rgb(189, 189, 189);
-  border-width: 2px;
-  padding: 16px 33px;
   cursor: pointer;
 }
 
@@ -238,6 +236,7 @@ header {
     color: #444;
     cursor: pointer;
     padding: 18px;
+    padding-top: 9px;
     width: 100%;
     border: none;
     text-align: left;
