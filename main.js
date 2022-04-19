@@ -12,3 +12,7 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+function docs() {
+  window.open("https://docs.google.com/document/d/1Gz4PHn0TTUuLnntRtjEfsKWWBFz76eB7RxVyjDH57nQ/edit?usp=sharing");
+}

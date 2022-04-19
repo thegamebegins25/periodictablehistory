@@ -34,13 +34,39 @@ header {
     margin-bottom: 350px;
 }
 
+.timelineimages {
+  width: 100%;
+  height: auto;
+}
+
 .workscited {
   background: rgb(255, 255, 255);
   margin-right: 10%;
   margin-left: 10%;
   padding-top: 1%;
   padding-bottom: .5%;
-  margin-bottom: 300px;
+  margin-bottom: 30px;
+}
+
+.docsbutton {
+    background-color: rgb(255, 255, 255); /* Green */
+    border-width: 3px;
+    border-color: #000000;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 2%;
+    font-size: 16px;
+    margin-left: 10%;
+}
+
+.docsbutton:hover {
+  background-color: rgb(189, 189, 189);
+  border-width: 2px;
+  padding: 16px 33px;
+  cursor: pointer;
 }
 
 .clicktoexpand {
